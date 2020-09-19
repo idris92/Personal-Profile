@@ -51,6 +51,9 @@ p{
     margin:50px auto 50px;
     padding: 30px;
 }
+.contact-head{
+    margin:10px auto;
+}
 .contact-text{
     width:30%;
     margin: 50px auto;
